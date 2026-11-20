@@ -1,0 +1,19 @@
+# Dependencies, bundler cache & Remotion browser binary
+node_modules/
+video-studio/node_modules/
+.cache/
+video-studio/.cache/
+.remotion/
+video-studio/.remotion/
+
+# Rendered videos & temporary frames
+video-studio/out/*.mp4
+video-studio/out/*.png
+video-studio/out/batch/
+
+# Environment & logs
+.env
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,90 @@
+{
+  "brand": {
+    "name": "Software Engineering Laboratory",
+    "shortName": "SE Lab FILKOM UB",
+    "instagram": "@se.lab.filkom",
+    "location": "F8.3 & F8.5, 8th floor, FILKOM UB",
+    "faculty": "Faculty of Computer Science, Brawijaya University, Malang"
+  },
+  "colors": {
+    "blue": {
+      "light": "#e6f0fb",
+      "lightHover": "#dae9f9",
+      "lightActive": "#b2d1f2",
+      "normal": "#086ad4",
+      "normalHover": "#075fbf",
+      "normalActive": "#0655aa",
+      "dark": "#06509f",
+      "darkHover": "#05407f",
+      "darkActive": "#04305f",
+      "darker": "#03254a"
+    },
+    "orange": {
+      "light": "#fef5ed",
+      "lightHover": "#fdf1e3",
+      "lightActive": "#fbe1c6",
+      "normal": "#f29f47",
+      "normalHover": "#da8f40",
+      "normalActive": "#c27f39",
+      "dark": "#b67735",
+      "darkHover": "#915f2b",
+      "darkActive": "#6d4820",
+      "darker": "#553819"
+    },
+    "purple": {
+      "light": "#ede6fb",
+      "lightHover": "#e4d9fa",
+      "lightActive": "#c8b0f4",
+      "normal": "#4d00db",
+      "normalHover": "#4500c5",
+      "normalActive": "#3e00af",
+      "dark": "#3a00a4",
+      "darkHover": "#2e0083",
+      "darkActive": "#230063",
+      "darker": "#1b004d"
+    },
+    "brandExtras": {
+      "headerWordmarkBlue": "#1b4e8a",
+      "deepNavyBar": "#00024f",
+      "introDarkSurface": "#1b174f",
+      "introDarkText": "#16153c",
+      "glassBorderLight": "rgba(200, 220, 252, 0.5)",
+      "glassPillBg": "rgba(219, 223, 226, 0.2)",
+      "glassPillBorder": "rgba(186, 186, 186, 0.5)"
+    }
+  },
+  "typography": {
+    "displayWordmark": "Days One",
+    "headlineAndBody": "Plus Jakarta Sans",
+    "systemUi": "Inter"
+  },
+  "formats": {
+    "reels": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "safeZone": {
+        "top": 220,
+        "bottom": 340,
+        "left": 72,
+        "right": 140
+      }
+    },
+    "feeds": {
+      "width": 1080,
+      "height": 1350,
+      "aspectRatio": "4:5"
+    },
+    "snapgram": {
+      "width": 1080,
+      "height": 1920,
+      "aspectRatio": "9:16"
+    }
+  },
+  "videoRules": {
+    "themeMode": "adaptive",
+    "themes": ["light", "dark"],
+    "institutionalLogosPlacement": "outro-only",
+    "outroLogos": ["UB", "FILKOM", "SE Lab"]
+  }
+}

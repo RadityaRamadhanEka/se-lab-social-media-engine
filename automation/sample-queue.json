@@ -1,0 +1,36 @@
+[
+  {
+    "id": "RPL-001",
+    "theme": "light",
+    "hookPrefix": "RPL = Cuma",
+    "hookHighlight": "Ngoding",
+    "hookSuffix": "Doang?",
+    "hookSubtitle": "Banyak yang mengira Software Engineering itu cuma soal nulis baris kode.",
+    "analogyTitle": "Koding vs Rekayasa",
+    "analogySubtitle": "Nulis kode tanpa rancangan itu seperti menumpuk bata tanpa cetak biru: cepat tinggi, tapi rawan roboh.",
+    "steps": [
+      {
+        "badge": "01 · ANALISIS KEBUTUHAN",
+        "title": "Pahami Masalah & Cetak Biru",
+        "subtitle": "Software Engineer mulai dari kebutuhan user dan desain sistem sebelum menyentuh editor kode."
+      },
+      {
+        "badge": "02 · ARSITEKTUR",
+        "title": "Bangun Struktur Modular",
+        "subtitle": "Kode disusun rapi per komponen agar tim bisa berkolaborasi dan mudah dikembangkan."
+      },
+      {
+        "badge": "03 · QUALITY & TESTING",
+        "title": "Uji Sebelum Rilis",
+        "subtitle": "Setiap fitur dipindai dan diuji otomatis agar aman dari bug saat dipakai ribuan pengguna."
+      },
+      {
+        "badge": "04 · DEPLOY & EVOLUSI",
+        "title": "Rilis, Pantau, & Iterasi",
+        "subtitle": "Software terus dirawat, diukur performanya, dan berevolusi mengikuti kebutuhan nyata."
+      }
+    ],
+    "outroTagline": "Beyond Coding: Building the Right Software.",
+    "outroCta": "Drop di komen! Mau kita bahas topik RPL apa lagi selanjutnya?"
+  }
+]

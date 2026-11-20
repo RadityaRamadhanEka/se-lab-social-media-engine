@@ -1,0 +1,73 @@
+{
+  "voiceName": "id-ID-ArdiNeural",
+  "culture": "id-ID",
+  "gender": "Male",
+  "engine": "Microsoft Edge Neural TTS",
+  "fps": 30,
+  "totalFrames": 1724,
+  "clips": {
+    "babak1": {
+      "file": "audio/vo-babak1.mp3",
+      "chapterStartFrame": 0,
+      "chapterEndFrame": 218,
+      "audioStartFrame": 6,
+      "durationSeconds": 6.648,
+      "durationFrames": 200,
+      "text": "RPL itu sama dengan cuma ngoding doang? Banyak yang mengira Software Engineering itu cuma soal nulis baris kode."
+    },
+    "babak2": {
+      "file": "audio/vo-babak2.mp3",
+      "chapterStartFrame": 218,
+      "chapterEndFrame": 465,
+      "audioStartFrame": 224,
+      "durationSeconds": 7.608,
+      "durationFrames": 229,
+      "text": "Padahal, nulis kode tanpa rancangan seperti menumpuk bata tanpa cetak biru. Cepat tinggi, tapi rawan roboh."
+    },
+    "step1": {
+      "file": "audio/vo-step1.mp3",
+      "chapterStartFrame": 465,
+      "chapterEndFrame": 696,
+      "audioStartFrame": 471,
+      "durationSeconds": 7.08,
+      "durationFrames": 213,
+      "text": "Pertama, Analisis Kebutuhan. Pahami dulu masalah dan kebutuhan pengguna sebelum menyentuh editor kode."
+    },
+    "step2": {
+      "file": "audio/vo-step2.mp3",
+      "chapterStartFrame": 696,
+      "chapterEndFrame": 915,
+      "audioStartFrame": 702,
+      "durationSeconds": 6.696,
+      "durationFrames": 201,
+      "text": "Kedua, Arsitektur. Susun kode secara modular agar tim mudah berkolaborasi dan berkembang."
+    },
+    "step3": {
+      "file": "audio/vo-step3.mp3",
+      "chapterStartFrame": 915,
+      "chapterEndFrame": 1133,
+      "audioStartFrame": 921,
+      "durationSeconds": 6.648,
+      "durationFrames": 200,
+      "text": "Ketiga, Quality dan Testing. Pindai dan uji setiap fitur sebelum rilis agar aman dari bug."
+    },
+    "step4": {
+      "file": "audio/vo-step4.mp3",
+      "chapterStartFrame": 1133,
+      "chapterEndFrame": 1382,
+      "audioStartFrame": 1139,
+      "durationSeconds": 7.68,
+      "durationFrames": 231,
+      "text": "Keempat, Deploy dan Evolusi. Rilis ke pengguna, pantau performanya, dan iterasi terus menerus."
+    },
+    "outro": {
+      "file": "audio/vo-outro.mp3",
+      "chapterStartFrame": 1382,
+      "chapterEndFrame": 1706,
+      "audioStartFrame": 1388,
+      "durationSeconds": 10.2,
+      "durationFrames": 306,
+      "text": "Beyond Coding, Building the Right Software. Penasaran sama topik RPL lainnya? Yuk drop di kolom komentar, kalian mau kita bahas materi apa lagi selanjutnya!"
+    }
+  }
+}
